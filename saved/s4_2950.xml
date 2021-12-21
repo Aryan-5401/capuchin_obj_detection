@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s4_2950.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pele</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1048</xmin><ymin>451</ymin><xmax>1121</xmax><ymax>541</ymax></bndbox></object></annotation>

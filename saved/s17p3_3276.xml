@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s17p3_3276.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pesto</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1266</xmin><ymin>345</ymin><xmax>1397</xmax><ymax>476</ymax></bndbox></object></annotation>

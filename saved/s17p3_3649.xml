@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s17p3_3649.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pele</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1264</xmin><ymin>334</ymin><xmax>1461</xmax><ymax>542</ymax></bndbox></object><object><name>Pesto</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1368</xmin><ymin>133</ymin><xmax>1523</xmax><ymax>303</ymax></bndbox></object></annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s3_7403.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pery</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1038</xmin><ymin>539</ymin><xmax>1228</xmax><ymax>731</ymax></bndbox></object></annotation>

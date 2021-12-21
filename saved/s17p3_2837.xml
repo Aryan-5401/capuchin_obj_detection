@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s17p3_2837.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pirulo</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>795</xmin><ymin>288</ymin><xmax>903</xmax><ymax>401</ymax></bndbox></object><object><name>Pesto</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1207</xmin><ymin>118</ymin><xmax>1311</xmax><ymax>240</ymax></bndbox></object></annotation>

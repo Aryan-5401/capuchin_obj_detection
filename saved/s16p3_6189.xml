@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s16p3_6189.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pio</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>643</xmin><ymin>17</ymin><xmax>750</xmax><ymax>155</ymax></bndbox></object><object><name>Pele</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1132</xmin><ymin>33</ymin><xmax>1257</xmax><ymax>155</ymax></bndbox></object></annotation>

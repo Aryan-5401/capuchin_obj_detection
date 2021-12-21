@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s16p2_5999.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pio</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>654</xmin><ymin>383</ymin><xmax>811</xmax><ymax>554</ymax></bndbox></object></annotation>

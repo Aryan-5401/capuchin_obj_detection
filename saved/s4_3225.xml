@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>s4_3225.jpg</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+
+<object><name>Pery</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1122</xmin><ymin>465</ymin><xmax>1188</xmax><ymax>552</ymax></bndbox></object><object><name>Piccolo</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1025</xmin><ymin>160</ymin><xmax>1096</xmax><ymax>251</ymax></bndbox></object></annotation>
