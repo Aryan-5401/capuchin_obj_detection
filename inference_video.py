@@ -133,5 +133,5 @@ def detect_video(path, output_path):
 
 if __name__ == '__main__':
   # detector = TFObjectDetector('/Users/aryan/Desktop/RESEARCH FALL 2021/capuchin_obj_detection/exported_final_inference_model/my_model', '/Users/aryan/Desktop/RESEARCH FALL 2021/capuchin_obj_detection/exported_final_inference_model/my_model/checkpoint', '/Users/aryan/Desktop/RESEARCH FALL 2021/capuchin_obj_detection/exported_final_inference_model/my_model/mscoco_label_map.pbtxt', 'ssd_mobilenet_v2_fpnlite_640x640_coco17_tpu-8')
-  detect_image('/Users/aryan/Desktop/jol.png', './out_46_test_lol.jpg')
-  # detect_video('/Users/aryan/Desktop/RESEARCH FALL 2021/capuchin_obj_detection/S4c.7.18.19.MP4', './42k_inference_S4c.mp4')
+  # detect_image('/Users/aryan/Desktop/test_img.png', './out_test.jpg')
+  detect_video('/Users/aryan/Desktop/RESEARCH FALL 2021/capuchin_obj_detection/S4c.7.18.19.MP4', './inference_S4c.mp4')
